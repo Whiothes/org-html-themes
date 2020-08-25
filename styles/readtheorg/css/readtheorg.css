@@ -1120,3 +1120,7 @@ h2.footnotes{
     padding: 9px 12px;
     margin-bottom: 24px;
     font-family:"Roboto Slab","ff-tisa-web-pro","Georgia",Arial,sans-serif}
+
+
+.figure-number { display: none }
+.listing-number { display: none }
